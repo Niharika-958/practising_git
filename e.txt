@@ -1,0 +1,2 @@
+this is for checking how git diff works
+I added a line
